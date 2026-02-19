@@ -109,44 +109,5 @@ Deployed using Vercel.
 
 Automatic build from GitHub repository.
 
-📸 Screenshots
-(Add screenshots here)
-
-📈 Future Improvements
-Add loading spinner
-
-Improve UI styling
-
-Add drag & drop file upload
-
-Add file validation before upload
-
-Add toast notifications
-
-Add better UX feedback
-
 👨‍💻 Author
 Vrushabh Patil
-
-
----
-
-# ✅ Final Checklist Before Submission
-
-- Replace live URLs
-- Verify both demos work
-- Ensure README formatting renders correctly
-- Make sure tests pass
-- Confirm environment variables are correct
-- Double-check CORS configuration
-
----
-
-If you want next, I can:
-
-- Do a mock interview based on this project  
-- Help you draft submission email  
-- Review your GitHub repository quality  
-- Improve algorithm explanation for interview  
-
-You’re very close to a strong submission 🚀
